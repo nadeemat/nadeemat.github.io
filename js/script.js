@@ -207,7 +207,7 @@ function parallax() {
 
     // main directions
       map = new GMaps({
-        el: '#map', lat: 23.790223, lng: 90.414036, zoom: 13, zoomControl : true, 
+        el: '#map', lat: 19.0596327, lng: 72.8388966, zoom: 13, zoomControl : true, 
         zoomControlOpt: { style : 'SMALL', position: 'TOP_LEFT' }, panControl : false, scrollwheel: false
       });
     // add address markers
